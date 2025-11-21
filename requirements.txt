@@ -1,2 +1,17 @@
 fastapi
 uvicorn
+GitPython
+sentence-transformers
+chromadb
+neo4j
+tree-sitter
+tree-sitter-languages
+tree-sitter-python
+weaviate-client
+google-genai
+python-dotenv
+flake8
+pandas
+openpyxl
+openai
+torch
